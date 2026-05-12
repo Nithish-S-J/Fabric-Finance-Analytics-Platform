@@ -15,7 +15,7 @@ fabric-finance-analytics-platform/
 ┃   ┣━━ 📂 project-documentation/
 ┃   ┃   ┗━━ 📄 Finance_Analytics_Project_Documentation.docx
 ┃   ┣━━ 📂 architecture/
-┃   ┃   ┗━━ 📄 Project_Flow_Architecture.pptx
+┃   ┃   ┗━━ 📄 Project_Flow_Architecture.png
 ┃   ┗━━ 📂 screenshots/
 ┃       ┣━━ 📂 fabric/
 ┃       ┣━━ 📂 sql/
